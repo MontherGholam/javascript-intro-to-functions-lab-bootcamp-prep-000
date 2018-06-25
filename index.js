@@ -20,3 +20,12 @@ function logShout(){
 function logWhisper(){
   console.log("hello")
 }
+//Fifth
+var lowercase="hello"
+function sayHiToGrandma(lowercase){
+
+  if (lowercase.toLowerCase === lowercase)
+  {
+    return "I can't hear you!"
+  }
+}
