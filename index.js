@@ -12,6 +12,11 @@ return string.toLowerCase()
 
 //Third
 
-function logShout(HELLO){
-  console.log(HELLO.toUpperCase)
+function logShout(){
+  console.log("HELLO")
+}
+
+//Fourth
+function logWhisper(){
+  console.log("hello")
 }
