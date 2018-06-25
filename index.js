@@ -11,7 +11,7 @@ return string.toLowerCase()
 }
 
 //Third
-var uppercase="HELLO"
-function logShout(uppercase){
-  console.log(uppercase.toUpperCase)
+
+function logShout(HELLO){
+  console.log(HELLO.toUpperCase)
 }
