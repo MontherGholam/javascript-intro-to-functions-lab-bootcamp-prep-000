@@ -22,7 +22,7 @@ function logWhisper(){
 }
 //Fifth
 
-function sayHiToGrandma("hello"){
+function sayHiToGrandma(string){
 
   if ("hello".toLowerCase === lowercase)
   {
